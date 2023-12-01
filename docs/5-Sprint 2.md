@@ -10,7 +10,6 @@ Na primeira aula tivemos uma conversa com os alunos, perguntamos sobre eles, o q
 Os dois deram assistência para os alunos, tirando dúvidas individuais e gerais.
 
 
-
 ## Percepções Pessoais
 
 Bruno: Foi bem interessante dar aula para alunos dessa idade, mesmo tendo crianças do sexto deram conta de entender toda a matéria dada, digo isso por terem feito até mais coisa do que foi pedido, chegou num momento em que eles estavam aprendendo e avançando quase que sozinhos e ajudamos tirando suas dúvidas e mostrando o que mais podiam fazer. Como teve poucos alunos conseguíamos dar atenção para todos os alunos, então passávamos na mesa de cada um pra perguntar o que estavam fazendo e se estavam com algum problema, mas num geral pegaram bem rápido as ideias e conseguiram fazer tudo o que foi pedido, imagino que tenham ficado interessados.
@@ -24,17 +23,16 @@ Dia 24/11 - Aula 2 (14:00 até 15:30) - Alunos Ana letícia e Inácio.
 Na segunda aula, assim que os alunos foram chegando, pedindo para que abrissem seus respectivos projetos já começados a ser desenvolvidos na primeira aula. Demos uma olhada em cada projeto de cada aluno para sabermos exatamente aonde pararam e como estava o desenvolvimento. Podemos analisar que os estudantes inscritos no curso tinham muita criatividade e facilidade. Como já estava combinado e programado, fizemos as tarefas propostas para o segundo dia, que foi a animação de personagem, mudança de cenário e como conseguimos administrar bem a aula, sobrou um tempo no final da aula e através de tutorial da própria ferramenta, mostramos à eles a jogar um joystrick na cena.
 
 - Ana Letícia: Ficou no pc mostrando aos alunos passo a passo das atividades propostas
-- Inácio:
+- Inácio: Tirou dúvida dos alunos e deu explicações
 
   Os dois deram assistência para os alunos, tirando dúvidas individuais e gerais.
 
+  
 ## Percepções Pessoais
 
 Ana Letícia: Eu fiquei maravilhada com a facilidade dos alunos no desenvolvimento. Um dos alunos era bem pequeno, ele me disse que estava no 6ºano do EF e o projeto dele estava muito bem feito e muito bem construído. Ele e mais duas alunas foram as que mais me chamaram a atenção, uma delas desenvolveu um jogo isométrico e ficou muito bonito, ela sabia coisas que são mesmos não sabíamos. A outra, o que eu gostei do desenvolvimento dela foi a persistência, de querer fazer as coisas e acrescentar, tanto que eu até brinquei com ela e dei um apelido de "futura design gráfica". Eu amei a experiência e os alunos colaboram muito com todos nós integrantes.
 
-Inácio: 
-
-
+Inácio: Achei muito interessante poder dar aula de desenvolvimento de jogos, gostei de tirar as dúvidas deles porque sempre chamavam a gente para ver se estava bom e o que podia mudar, acrescentar ou fazer algo diferente. Todos colaboraram conosto e conseguimos ministrar o curso e o nosso dia. 
 
 ============================================================================================
 
